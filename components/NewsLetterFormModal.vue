@@ -15,9 +15,7 @@ export default {
   components: { ModalOverlay, NewsLetterForm },
   computed: {
     title() {
-      return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
-      )
+      return this.$siteConfig.newsletter.heading || 'Subscribe'
     }
   }
 }
