@@ -86,5 +86,5 @@ So kommen schnell die 300 bzw. 600 Watt zusammen, die ein Balkonkraftwerk erzeug
 
 
 ### Anmeldung
-![Anmeldeformular](https://www.stadtwerke-herne.de/PDFs/Netze/stromnetz/Eigenerzeugungsanlagen%20PV/Anmeldung%20einer%20steckerfertigen%20Erzeugungsanlage_Formular.pdf)
+[Anmeldeformular](https://www.stadtwerke-herne.de/PDFs/Netze/stromnetz/Eigenerzeugungsanlagen%20PV/Anmeldung%20einer%20steckerfertigen%20Erzeugungsanlage_Formular.pdf)
 
