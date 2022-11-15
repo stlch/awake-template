@@ -30,46 +30,48 @@ Die durchschnittlichen 22 Jahre bieten also viel Potenzial für eine gute Rendit
 
 # Das ganze etwas genauer:
 
-Ob sich ein Balkonkraftwerk lohnt, hängt ungefähr von 4 Faktoren ab. 
+Ob sich ein Balkonkraftwerk lohnt, hängt ungefähr von 5 Faktoren ab. 
 Die wichtigsten sind:
 1) Die Anschaffungskosten 
 2) Der Strompreis(verlauf)
 3) Der Standort der Module (Sonnenstunden)
-3) Die Ausrichtung der Module 
-4) Das Verbrauchsverhalten des Haushalts
+4) Die Ausrichtung der Module 
+5) Das Verbrauchsverhalten des Haushalts
 
-### Anschaffungskosten
+### 1. Anschaffungskosten
 
 Die Anschaffungskosten schwanken aktuell sehr stark. Vor zwei Jahren konnte ich meine 300 Watt Anlage für 250 € erwerben. 
 In den letzten zwei Jahren sind die Preise zwischendurch auf fast 1000 € gestiegen, und haben sich nun bei etwa 450 € eingependelt.
 Beim erwerb von zwei 300 Watt Modulen lassen sich bei manchmal Herstellern ungefähr 10% Rabatt einsparen.
 Die Anschaffungskosten sind also ein wichtiger Faktor für die Rentabilität eines Balkonkraftwerks.
 
-### Der Strompreis (verlauf)
+### 2. Der Strompreis (verlauf)
 
 Der Strompreis ist ein wichtiger Faktor für die Rentabilität eines Balkonkraftwerks.
 Der Strompreis ist in den letzten Jahren stark gestiegen.
 Aktuell liegt der Strompreis bei etwa 37 Cent pro kWh.
 Der Strompreis wird sich in den nächsten Jahren voraussichtlich weiter erhöhen.
 
-### Der Standort der Module (Sonnenstunden)
+
+### 3. Der Standort der Module (Sonnenstunden)
 
 Der Standort der Module ist ein wichtiger Faktor für die Rentabilität eines Balkonkraftwerks.
 Der Sonnenreiche Süden Deutschlands bietet die besten Voraussetzungen für Balkonkraftwerke.
 In Karlsruhe scheint die Sonne durchschnittliche 1.800 Stunden pro Jahr (das entspricht etwas unter 5 Stunden pro Tag).
 In Herne scheint die Sonne durchschnittliche 1.500 Stunden pro Jahr (das entspricht etwas unter 4 Stunden pro Tag).
 
-### Die Ausrichtung der Module
+### 4. Die Ausrichtung der Module
 
 Die Ausrichtung der Module ist ein wichtiger Faktor für die Rentabilität eines Balkonkraftwerks.
 Eine Faustregel besagt, dass die Module in Richtung Süden ausgerichtet werden sollten und eine Neigung von 30° haben sollten.
 
-### Das Verbrauchsverhalten des Haushalts
+### 5. Das Verbrauchsverhalten des Haushalts
 
 Das Verbrauchsverhalten des Haushalts ist ein wichtiger Faktor für die Rentabilität eines Balkonkraftwerks.
 Ein Balkonkraftwerk kann nur dann rentabel sein, wenn der erzeugte Strom vollständig selbst verbraucht wird.
 Hierzu ist es wichtig, die verbrauchte Leistung des Haushalts zum gleichen Zeitpunkt auftreten muss, wie die erzeugte Leistung des Balkonkraftwerks.
 Das ist z.B. der Fall, wenn der im Haushalt im Home Office arbeitet, oder tagsüber viele Verbraucher eingeschaltet sind.
+
 Beispielhaft sind einige dauerhafte Verbrauche aufgeführt:
 - Kühlschrank (100 Watt)
 - Fernseher (100 Watt)
@@ -80,4 +82,9 @@ Beispielhaft sind einige dauerhafte Verbrauche aufgeführt:
 - Router (15 Watt)
 
 So kommen schnell die 300 bzw. 600 Watt zusammen, die ein Balkonkraftwerk erzeugen kann.
- 
+
+
+
+### Anmeldung
+![Anmeldeformular](https://www.stadtwerke-herne.de/PDFs/Netze/stromnetz/Eigenerzeugungsanlagen%20PV/Anmeldung%20einer%20steckerfertigen%20Erzeugungsanlage_Formular.pdf)
+
